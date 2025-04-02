@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "description": "Software Engineer at Google",
+    "location": { "lat": 37.7749, "lng": -122.4194 },
+    "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+    "email": "johndoe@gmail.com",
+    "phone": "+1 650-253-0000"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "description": "Product Designer at Apple",
+    "location": { "lat": 37.3346, "lng": -122.0090 },
+    "address": "1 Infinite Loop, Cupertino, CA",
+    "email": "janesmith@apple.com",
+    "phone": "+1 408-996-1010"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+    "description": "Data Scientist at Meta",
+    "location": { "lat": 37.4848, "lng": -122.1484 },
+    "address": "1 Hacker Way, Menlo Park, CA",
+    "email": "alicej@meta.com",
+    "phone": "+1 650-543-4800"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "photo": "https://randomuser.me/api/portraits/men/4.jpg",
+    "description": "Full Stack Developer at Amazon",
+    "location": { "lat": 37.7749, "lng": -122.4194 },
+    "address": "410 Terry Ave N, Seattle, WA",
+    "email": "michaelb@amazon.com",
+    "phone": "+1 206-266-1000"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "photo": "https://randomuser.me/api/portraits/women/5.jpg",
+    "description": "Cybersecurity Analyst at Microsoft",
+    "location": { "lat": 47.6423, "lng": -122.1367 },
+    "address": "One Microsoft Way, Redmond, WA",
+    "email": "emilyd@microsoft.com",
+    "phone": "+1 425-882-8080"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "photo": "https://randomuser.me/api/portraits/women/5.jpg",
+    "description": "Cybersecurity Analyst at Microsoft",
+    "location": { "lat": 47.6423, "lng": -122.1367 },
+    "address": "One Microsoft Way, Redmond, WA",
+    "email": "emilyd@microsoft.com",
+    "phone": "+1 425-882-8080"
+  }
+]
